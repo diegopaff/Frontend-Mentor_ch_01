@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [(https://diegopaff.github.io/Frontend-Mentor_ch_01/)](https://diegopaff.github.io/Frontend-Mentor_ch_01/)
 
 
 ### Built with
@@ -47,6 +47,6 @@ In the future i will add this some interaction, like hover animations and maybe 
 
 ## Author
 
-- Website - [Diego Curutchet](https://www.your-site.com)
+- Website - [Diego Curutchet](https://diegocurutchetdev.netlify.app/)
 - Frontend Mentor - [@diegopaff](https://www.frontendmentor.io/profile/diegopaff)
 
